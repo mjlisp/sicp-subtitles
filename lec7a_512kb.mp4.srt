@@ -1860,7 +1860,7 @@ CDR of the CDR of this,
 
 401
 00:22:09,670 --> 00:22:16,315
-CADADR, of the procedure.
+CADDR, of the procedure.
 
 402
 00:22:16,315 --> 00:22:20,290
